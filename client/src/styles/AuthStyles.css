@@ -1,0 +1,13 @@
+.googlebutton > img{
+    width: 50px;
+    margin-right: 30px;
+
+}
+.googlebutton{
+    color: white;
+    background-color: #bdc3c7 !important;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
